@@ -36,3 +36,7 @@ Summarize (if needed): Provide a short summary using BART if the response is len
 Implement authentication and user management.
 Add multilingual support for input and output.
 Expand to support real-time data sources.
+
+
+You Need To Create One More File Name : "secret_api_key.py" in which you neeed to add your huggingface apikey like below
+huggingface_api_key = 'copy past your key'
